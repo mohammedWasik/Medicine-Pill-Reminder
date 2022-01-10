@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883841327879",
+    "firebase_url": "https://medicine-pill-reminder-app-default-rtdb.firebaseio.com",
+    "project_id": "medicine-pill-reminder-app",
+    "storage_bucket": "medicine-pill-reminder-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883841327879:android:1f8fda0945ea123a0f5ba2",
+        "android_client_info": {
+          "package_name": "com.example.medicinepillreminderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883841327879-m1k4hkdsv41ih6jr5bug606mku16bobu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUkBN5XtwJYbBxqwWNsdJjVy3W_WkCPrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883841327879-m1k4hkdsv41ih6jr5bug606mku16bobu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
